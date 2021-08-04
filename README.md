@@ -11,4 +11,4 @@
 
 |주차|내용정리|퀴즈|
 |:------|:------|:------|
-|1주차|[정리링크](https://github.com/threegenie/SQL_study/tree/main/1%EC%A3%BC%EC%B0%A8)|퀴즈풀이|
+|1주차|[정리링크](https://github.com/threegenie/SQL_study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC.md)|퀴즈풀이|

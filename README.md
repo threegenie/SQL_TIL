@@ -7,7 +7,7 @@
  - 3주간 혼자 열심히 공부하기! ➡ 1️⃣네이버 부스트코스 [기초 데이터 분석을 위한 핵심 SQL](www.boostcourse.org/ds102) / 2️⃣[Mode SQL Tutorial](https://mode.com/sql-tutorial/sql-like/)
  - 매주 금요일 스터디원 함께 퀴즈 풀기!
 
-[링크](https://github.com/threegenie/SQL_study/tree/main/1%EC%A3%BC%EC%B0%A8)
+--- 
 
 |주차|내용정리|퀴즈|
 |:------|:------|:------|

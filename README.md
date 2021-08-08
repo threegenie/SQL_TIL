@@ -11,4 +11,4 @@
 
 |주차|내용정리|연습문제|퀴즈|
 |:------|:------|:------|:------|
-|1주차|[정리링크](https://github.com/threegenie/SQL_study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC.md)|[연습문제](https://github.com/threegenie/SQL_study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.md)|퀴즈풀이|
+|1주차|[정리링크](https://github.com/threegenie/SQL_study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC.md)|[연습문제](https://github.com/threegenie/SQL_study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.md)|[퀴즈풀이](https://github.com/threegenie/SQL_study/blob/main/1%EC%A3%BC%EC%B0%A8/%ED%80%B4%EC%A6%88.md)|
